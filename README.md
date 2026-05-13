@@ -38,21 +38,20 @@ class Tanishq:
 
 </div>
 
----
-
 ## 🗺️ My Learning Journey
-[2025] ──────────────────────────────────────────────► [Now] 
-!🥚 Discovered Python         ⚔️ First ML model
-│                              │
-▼                              ▼
-🐣 "Hello, World!"        🤖 Training & Testing
-│                              │
-▼                              ▼
-📊 Fell in love        🌸 Still in my arc...
-with data                  (to be continued)
 
----
+```
+[2024] ──────────────────────────────────────────────► [Now]
 
+  🥚 Discovered Python         ⚔️ First ML model
+      │                              │
+      ▼                              ▼
+  🐣 "Hello, World!"        🤖 Training & Testing
+      │                              │
+      ▼                              ▼
+  📊 Fell in love        🌸 Still in my arc...
+     with data                  (to be continued)
+```
 ## 🌸 Currently
 
 - 🔭 Building: **NO Projects active**
