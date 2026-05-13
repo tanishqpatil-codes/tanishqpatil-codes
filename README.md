@@ -41,7 +41,7 @@ class Tanishq:
 ## 🗺️ My Learning Journey
 
 ```
-[2024] ──────────────────────────────────────────────► [Now]
+[2025] ──────────────────────────────────────────────► [Now]
 
   🥚 Discovered Python         ⚔️ First ML model
       │                              │
@@ -64,10 +64,6 @@ class Tanishq:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Tanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqpatil-codes&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqpatil-codes&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanishqpatil-codes&theme=tokyonight&hide_border=true)
 
