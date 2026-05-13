@@ -41,8 +41,8 @@ class Tanishq:
 ---
 
 ## 🗺️ My Learning Journey
-[2025] ──────────────────────────────────────────────► [Now] ;
-🥚 Discovered Python         ⚔️ First ML model
+[2025] ──────────────────────────────────────────────► [Now] 
+!🥚 Discovered Python         ⚔️ First ML model
 │                              │
 ▼                              ▼
 🐣 "Hello, World!"        🤖 Training & Testing
