@@ -43,3 +43,72 @@ class YourName:
 ---
 
 ## 🗺️ My Learning Journey
+[2024] ──────────────────────────────────────────────► [Now]
+🥚 Discovered Python         ⚔️ First ML model
+│                              │
+▼                              ▼
+🐣 "Hello, World!"        🤖 Training & Testing
+│                              │
+▼                              ▼
+📊 Fell in love        🌸 Still in my arc...
+with data                  (to be continued)
+
+---
+
+## 🎮 Projects & Builds
+
+> *"Every project is a new dungeon. Every bug is a boss fight."*
+
+| ⚔️ Project | 📜 Description | 🛠️ Stack |
+|------------|----------------|----------|
+| 🔮 Project 1 | Add your project description here | Python |
+| 📊 Project 2 | Add your project description here | Pandas, Matplotlib |
+| 🤖 Project 3 | Add your project description here | Scikit-learn |
+
+> 📌 *Check pinned repos below for my latest work!*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌸 Currently
+
+- 🔭 Building: **[Your current project]**
+- 🌱 Learning: **Python · Data Science · Machine Learning**
+- ⚡ Fun fact: **I debug code at 2AM with lo-fi playing 🎵**
+- 🎮 When not coding: **Anime & Games**
+
+---
+
+## 📡 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YourUsername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The journey of a thousand models begins with a single `print('Hello, World!')`"* 🐍
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=F75C7E&style=flat-square&label=Profile+Views)
+
+</div>
