@@ -15,12 +15,12 @@
 
 ```python
 class Tanishq:
-    role       = "Student & Lifelong Learner"
-    currently  = ["Python", "Data Science", "Machine Learning"]
-    building   = "Projects that break things (and fix them) 🔨"
-    goal       = "Understand how machines think before they understand me"
-    fuel       = "☕ Caffeine"
-    status     = "Still in my arc... 🌸"
+    role       = Student & Lifelong Learner
+    currently  = "Python", "Data Science", "Machine Learning"
+    building   = Projects that break things (and fix them) 🔨
+    goal       = Understand how machines think before they understand me
+    fuel       = ☕ Caffeine
+    status     = Still in my arc... 🌸
 ```
 
 ---
@@ -41,7 +41,7 @@ class Tanishq:
 ---
 
 ## 🗺️ My Learning Journey
-[2024] ──────────────────────────────────────────────► [Now]/
+[2025] ──────────────────────────────────────────────► [Now] ;
 🥚 Discovered Python         ⚔️ First ML model
 │                              │
 ▼                              ▼
@@ -55,10 +55,10 @@ with data                  (to be continued)
 
 ## 🌸 Currently
 
-- 🔭 Building: **[Your current project]**
+- 🔭 Building: **NO Projects active**
 - 🌱 Learning: **Python · Data Science · Machine Learning**
 - ⚡ Fun fact: **I debug code at 2AM with lo-fi playing 🎵**
-- 🎮 When not coding: **Anime & Games**
+- 🎮 When not coding: **Movies & Games**
 
 ---
 
@@ -91,7 +91,5 @@ with data                  (to be continued)
 <div align="center">
 
 *"The journey of a thousand models begins with a single `print('Hello, World!')`"* 🐍
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tanishqpatil-codes&color=F75C7E&style=flat-square&label=Profile+Views)
 
 </div>
